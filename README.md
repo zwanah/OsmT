@@ -18,14 +18,18 @@
 
 ---
 
-## 🎬 Demo
+## 🎬 System Walkthrough & Demo
+
+> **🎥 System Walkthrough Video** — A full explanation of the OsmT system is available:
+>
+> <p align="center"><a href="https://drive.google.com/file/d/1y4xnFzZr24Nzo0A83mX-nshoiBU6NPFn/view?usp=sharing"><img src="https://img.shields.io/badge/▶%20Watch%20Full%20System%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Full System Walkthrough"/></a></p>
 
 <p align="center">
   <img src="demo/OsmT_Demo.gif" alt="OsmT Demo" width="100%"/>
 </p>
 
 <p align="center">
-  📹 <a href="https://drive.google.com/file/d/1Ie8OeG91fAvM5EsM7T7PPD8e9ERHQs3o/view?usp=sharing"><b>Watch full-quality demo video</b></a>
+  📹 <a href="https://drive.google.com/file/d/1y4xnFzZr24Nzo0A83mX-nshoiBU6NPFn/view?usp=sharing"><b>Watch full-quality system walkthrough video</b></a>
 </p>
 
 The end-to-end workflow of OsmT is illustrated in video. Given either a natural language question or an OverpassQL query as input, OsmT supports a unified interaction process over OpenStreetMap. For natural language input, the system generates executable OverpassQL with the assistance of tag-aware augmentation, executes the query, and visualizes the retrieved spatial entities on the map. For structured queries, OsmT produces corresponding natural language descriptions to facilitate semantic interpretation.

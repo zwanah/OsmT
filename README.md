@@ -38,7 +38,7 @@ The end-to-end workflow of OsmT is illustrated in video. Given either a natural 
 
 ## 🗂️ OsmNL Dataset
 
-The **OsmNL** dataset is a new benchmark we manually constructed, building upon the existing [OverpassNL](https://github.com/simonepri/overpass-nl) dataset. It is located at [`dataset/OsmNL/`](dataset/OsmNL/).
+The **OsmNL** dataset is a new benchmark we manually constructed, building upon the existing [OverpassNL](https://github.com/raphael-sch/OverpassNL) dataset. It is located at [`dataset/OsmNL/`](dataset/OsmNL/).
 
 | Split | Samples | Description              |
 | ----- | ------: | ------------------------ |
